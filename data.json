@@ -1,0 +1,31 @@
+{
+  "nome": "Gerente Particular - Gestão & Consultoria",
+  "descricao": "Gestão, administração e consultoria gerencial.",
+  "foto_perfil": "imagens/foto_perfil.jpeg",
+  "whatsapp": "5531999982996",
+  "sobre": "Gerente com experiência em gestão de equipes, organização de processos, controle financeiro e acompanhamento de resultados. Atua no planejamento estratégico, supervisão de operações, desenvolvimento de colaboradores e implementação de melhorias para aumentar a produtividade, reduzir custos e alcançar melhores resultados.",
+  "localizacao": "Atendimento presencial ou online, conforme disponibilidade.",
+  "servicos": [
+    {
+      "id": 1,
+      "nome": "Consultoria Gerencial (1h)",
+      "preco": "R$ 100,00"
+    },
+    {
+      "id": 2,
+      "nome": "Planejamento e Organização Empresarial (1h)",
+      "preco": "R$ 120,00"
+    },
+    {
+      "id": 3,
+      "nome": "Gestão de Equipes e Liderança (1h)",
+      "preco": "R$ 120,00"
+    },
+    {
+      "id": 4,
+      "nome": "Acompanhamento Gerencial Mensal",
+      "preco": "R$ 400,00"
+    }
+  ]
+}
+
